@@ -41,13 +41,14 @@ const terms = [
 
     // Market segments
     'enduro', 'adventure', 'ADV', 'supermoto', 'motocross', 'MX', 'supersport', 'cruiser',
-    'UJM', 'flat-track', 'cafe racer', 'dual sport', 'stunter', 'crotch rocket', 'touring bike', 'sidecar',
+    'UJM', 'flat-track', 'tracker', 'cafe racer', 'dual sport', 'stunter', 'crotch rocket', 'touring bike', 'sidecar',
+    'Bobber', 'brat-style',
 
     // Various brands
-    'Touratech', 'Advan', 'Yoshimura', 'Akropovich', 'Motorex', 'Lucas',
+    'Touratech', 'Advan', 'Yoshimura', 'Motorex', 'Lucas',
 
     // Engine
-    'engine', 'ICE', 'block', 'spark plug', 'oil capacity', 
+    'engine', 'ICE', 'block', 'spark plug', 'oil capacity', '2-stroke', '4-stroke',
     'compression', 'compression ratio', 'horsepower', 'torque', 'liquid cooled', 'power-valve', 'power-band', 
     '90% of peak torque', 'below 3,000 RPM', 'pinned', 'exhaust flow control valve', 
     'crankcase', 'crankcase cover', 'gasket', 'piston', 'blown', 'melted', 'needle bearing', 'valve float', 
@@ -55,7 +56,7 @@ const terms = [
     'single-cylinder', 'thumper', 'v-twin', 'parallel-twin', 'triple', 'inline-four', 'counter-balancer', 'rubber-mounted', '270-degree crank',
     
     'exhaust',
-    'slip-on', 'Akropovic full system', 'high-level exhaust',
+    'slip-on', 'Akropovic', 'Akropovic full system', 'high-level exhaust', 'loud pipes save lives',
     
     'drivetrain',
     'final drive', 'chain', 'belt-drive', 'shaft-drive', 'input shaft', 'output shaft', 'clutch plates', 'wet plate clutch', 'wet sump'
