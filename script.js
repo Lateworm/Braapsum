@@ -30,7 +30,7 @@ const terms = [
     'automatic chain drive lubrication system', 'Scottoiler',
     
     'BSA',
-    'Lucas, Prince of Darkness', 'a gentleman does not motor about after dark', 'A65', 'Lightning', 'Gold Star', 
+    'Lucas, Prince of Darkness', 'positive ground', '6-volt', 'a gentleman does not motor about after dark', 'A65', 'Lightning', 'Gold Star', 
     
     'Ducati',
     'open clutch cover', 'desmodromic', 'desmosedici',
@@ -59,11 +59,11 @@ const terms = [
     'slip-on', 'Akropovic', 'Akropovic full system', 'high-level exhaust', 'loud pipes save lives',
     
     'drivetrain',
-    'final drive', 'chain', 'belt-drive', 'shaft-drive', 'input shaft', 'output shaft', 'clutch plates', 'wet plate clutch', 'wet sump'
+    'final drive', 'chain', 'belt-drive', 'shaft-drive', 'input shaft', 'output shaft', 'clutch plates', 'wet plate clutch', 'wet sump',
     
-
     // Electrical
     'battery', 'battery tray', 'terminal', 'lead', 'advance', 'retard', 'timing', 'harness', 'turn signal', 'headlight',
+    'rectifier', 'voltage regulator',
     
     // Cockpit
     'tachometer', 'odometer',
