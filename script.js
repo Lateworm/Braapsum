@@ -41,7 +41,7 @@ const terms = [
 
     // Market segments
     'enduro', 'adventure', 'ADV', 'supermoto', 'motocross', 'MX', 'supersport', 'cruiser',
-    'UJM', 'flat-track', 'cafe racer', 'dual sport', 'stunter', 'crotch rocket', 'touring bike', 'sidecar'
+    'UJM', 'flat-track', 'cafe racer', 'dual sport', 'stunter', 'crotch rocket', 'touring bike', 'sidecar',
 
     // Various brands
     'Touratech', 'Advan', 'Yoshimura', 'Akropovich', 'Motorex', 'Lucas',
